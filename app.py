@@ -1351,7 +1351,7 @@ with tab_overview:
     )
 
     st.subheader(
-        "Raw Data Sample"
+        "Raw Data"
     )
 
     st.dataframe(
