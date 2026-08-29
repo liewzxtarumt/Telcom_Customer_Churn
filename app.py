@@ -1360,8 +1360,7 @@ with tab_overview:
     )
 
     with st.expander(
-        "Dataset structure (`df.info()` equivalent)"
-    ):
+        "Dataset structure (`df.info()` equivalent)
 
         info_df = pd.DataFrame({
 
